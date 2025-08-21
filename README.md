@@ -7,6 +7,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando qu
 
 * Iury Mota Santos
 * Thiago Andrade Monteiro
+* Iago Paiva Faria
 
 ## Professor
 
