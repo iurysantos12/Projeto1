@@ -1,7 +1,8 @@
-# Nome do projeto
-* Projeto_1
-* 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando que o objeto é desenvolver um sistema inteligente. Você deve mencionar o produto que está sendo desenvolvido, e não o que se espera obter com este produto.
+Análise de fatores associados ao Acidente Vascular Cerebral (AVC)
+
+O projeto tem como objetivo desenvolver um sistema inteligente capaz de analisar dados da PNS 2019 para identificar padrões e fatores associados à ocorrência de Acidente Vascular Cerebral (AVC) na população brasileira. O produto em desenvolvimento consiste em uma plataforma analítica que integra pré-processamento de dados, seleção de variáveis, modelagem preditiva e avaliação de métricas de desempenho, permitindo a construção de modelos confiáveis e interpretáveis para suporte à tomada de decisão em saúde pública.
+
+Além disso, o sistema inclui visualizações e relatórios interativos que facilitam a compreensão das relações entre variáveis demográficas, clínicas e comportamentais, bem como um modelo conceitual elaborado via Draw.io para abstração do problema. Dessa forma, o produto oferece uma solução estruturada para análise de dados de saúde, combinando inteligência computacional e ferramentas de visualização para apoiar pesquisas e estratégias preventivas relacionadas ao AVC.
 
 ## Integrantes
 
