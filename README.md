@@ -1,4 +1,4 @@
-Análise de fatores associados ao Acidente Vascular Cerebral (AVC)
+## Análise de fatores associados ao Acidente Vascular Cerebral (AVC)
 
 O projeto tem como objetivo desenvolver um sistema inteligente capaz de analisar dados da PNS 2019 para identificar padrões e fatores associados à ocorrência de Acidente Vascular Cerebral (AVC) na população brasileira. O produto em desenvolvimento consiste em uma plataforma analítica que integra pré-processamento de dados, seleção de variáveis, modelagem preditiva e avaliação de métricas de desempenho, permitindo a construção de modelos confiáveis e interpretáveis para suporte à tomada de decisão em saúde pública.
 
