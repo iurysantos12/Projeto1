@@ -3,7 +3,7 @@
 
 **Iury Mota Santos, iury.santos@sga.pucminas.br**
 
-**Thiago Andrade Monteiro, email do aluno 2**
+**Thiago Andrade Monteiro, o.thiagoamonteiro@gmail.com**
 
 **Iago Paiva Faria, iago.faria.1625316@sga.pucminas.br**
 
