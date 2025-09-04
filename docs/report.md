@@ -1,18 +1,18 @@
-# TITULO DO PROJETO
+# Análise de fatores associados ao Acidente Vascular Cerebral (AVC)
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+**Iury Mota Santos, iury.santos@sga.pucminas.br**
 
-**Nome completo do Aluno 2, email do aluno 2**
+**Thiago Andrade Monteiro, email do aluno 2**
 
-**Nome completo do Aluno 3, email do aluno 3**
+**Iago Paiva Faria, iago.faria.1625316@sga.pucminas.br**
 
 ---
 
 Professores:
 
-** Prof. Nome do Prof 1 **
-** Prof. Nome do Prof 2 **
+**Gabriel Fonseca**
+
 
 ---
 
