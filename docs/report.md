@@ -33,9 +33,7 @@ Este trabalho tem como foco a análise do Acidente Vascular Cerebral (AVC), uma 
 
 ###    Contextualização
 
-Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere. 
-A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
-A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas).
+O Acidente Vascular Cerebral (AVC) é um dos maiores desafios da saúde pública, figurando entre as principais causas de morte e incapacidade no mundo. Trata-se de uma condição neurológica grave, que pode ocorrer por obstrução de vasos sanguíneos (isquêmico) ou por seu rompimento (hemorrágico), resultando em sequelas motoras, cognitivas e elevado risco de óbito. No Brasil, estima-se que o AVC seja responsável por cerca de 100 mil mortes anuais, além de gerar custos sociais e econômicos significativos (Ministério da Saúde, 2021). Nesse contexto, a Pesquisa Nacional de Saúde (PNS 2019), realizada pelo IBGE, constitui uma base sólida para análises quantitativas sobre prevalência e fatores de risco da doença, permitindo identificar padrões relevantes. Assim, este trabalho insere-se na área da saúde pública e da epidemiologia, com o objetivo de compreender as características e determinantes do AVC na população brasileira.
 
 ###    Problema
 
