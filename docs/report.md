@@ -43,6 +43,8 @@ O  AVC/Derrame apresenta elevada incidência no Brasil, sendo uma das principais
 
 Desenvolver uma análise baseada nos dados da Pesquisa Nacional de Saúde (PNS 2019) para investigar quais variáveis demográficas, clínicas e comportamentais estão associadas à ocorrência de Acidente Vascular Cerebral, possibilitando a identificação de padrões relevantes para a saúde pública.
 
+- Pergunta Orientada a Dados: Quais fatores demográficos, clínicos e comportamentais estão mais associados à prevalência de Acidente Vascular Cerebral (AVC) na população brasileira, de acordo com os dados da Pesquisa Nacional de Saúde (PNS 2019)?
+
 ####    Objetivos específicos
 
 - Analisar a relação entre variáveis demográficas e a ocorrência do AVC.
