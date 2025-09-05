@@ -49,50 +49,31 @@ Desenvolver uma análise baseada nos dados da Pesquisa Nacional de Saúde (PNS 2
 
 ####    Objetivos específicos
 
-Analisar a relação entre variáveis demográficas e a ocorrência do AVC.
+- Analisar a relação entre variáveis demográficas e a ocorrência do AVC.
 
-Avaliar a influência de fatores de risco clínicos e comportamentais, como hipertensão, diabetes, tabagismo e sedentarismo.
+- Avaliar a influência de fatores de risco clínicos e comportamentais, como hipertensão, diabetes, tabagismo e sedentarismo.
 
-Construir gráficos e tabelas que permitam compreender os padrões identificados nos dados.
+- Construir gráficos e tabelas que permitam compreender os padrões identificados nos dados.
 
-Construir um modelo preditivo utilizando variáveis selecionadas, ajustando hiperparâmetros para otimizar seu desempenho.
+- Construir um modelo preditivo utilizando variáveis selecionadas, ajustando hiperparâmetros para otimizar seu desempenho.
 
-Avaliar métricas de validação do modelo, assegurando uma análise robusta e interpretável.
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
+- Avaliar métricas de validação do modelo, assegurando uma análise robusta e interpretável.
 
 ###    Justificativas
 
-Mostre também as **justificativas** para o  desenvolvimento do seu trabalho e, caso deseje, 
-destaque alguma contribuição do trabalho.
-
-A justific ativa deve descrever a importância ou a motivação para o desenvolvimento do 
-sistema inteligente escolhido. Indique as razões pelas quais você escolheu seus objetivos 
-específicos ou as razões para aprofundar em certos aspectos do software.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
-
+O desenvolvimento deste trabalho é motivado pela necessidade de compreender melhor os fatores associados à ocorrência do AVC na população brasileira. A escolha de analisar os dados da PNS 2019 permite explorar uma base confiável e representativa, possibilitando a identificação de padrões demográficos, clínicos e comportamentais relacionados à doença.
 
 ##    Público alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. 
-O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários 
-na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos 
-usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo deste projeto é composto por:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, 
-diagramas de personas e mapa de stakeholders.
+- Pacientes diagnosticados com AVC.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+- Indivíduos pertencentes a grupos de risco, como idosos, hipertensos, diabéticos, pessoas com histórico familiar de AVC, sedentários e fumantes.
 
+- Profissionais da saúde envolvidos no acompanhamento, diagnóstico e reabilitação de pacientes com AVC.
+
+- Gestores e formuladores de políticas públicas em saúde.
 
 ## Análise exploratórida dos dados
 
