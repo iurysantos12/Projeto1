@@ -71,6 +71,20 @@ O público-alvo deste projeto é composto por:
 
 - Gestores e formuladores de políticas públicas em saúde.
 
+## Atividades e Responsabilidades Sprint (2)
+
+- Seleção de variáveis -> Definição das variáveis principais para análise e das variáveis complementares que possam influenciar o modelo.
+Responsável: Iury Mota
+
+- Construção do modelo conceitual via Draw.io –> Elaboração de diagrama conceitual para melhor compreensão das variáveis selecionadas e do problema, facilitando a abstração e o planejamento da modelagem.
+Responsável: Iury Mota
+
+- Análise exploratória das variáveis –> Investigação inicial e básica dos dados, considerando distribuição, valores ausentes e possíveis outliers, facilitando a compreensão dos dados.
+Responsável: Thiago Andrade
+
+- Validação e cruzamento das variáveis –> Identificação de correlações relevantes entre variáveis demográficas, clínicas e comportamentais.
+Responsável: Iago Paiva
+
 ## Análise exploratórida dos dados
 
 ###    Dicionário de dados
