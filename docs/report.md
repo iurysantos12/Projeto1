@@ -144,6 +144,11 @@ Após a exploração inicial dos dados, foi identificado que algumas das variáv
 | Posse de Plano de Saúde                           | i001             | Foi Removida           |
 | Rendimento Domiciliar Per Capita                 | f00101           | Foi Removida            |
 
+### Algoritmo de Correlações
+
+![Algoritmo de Correlações](imagens/DIagrama_PNS_Cut.jpg)
+
+
 ###    Dicionário de dados
 
 A tabela a seguir detalha todos os atributos selecionados para o estudo, descrevendo seu significado e tipo de dado.
