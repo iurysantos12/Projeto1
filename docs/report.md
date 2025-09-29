@@ -89,6 +89,8 @@ Responsável: Iago Paiva
 
 ## Análise exploratória dos dados
 
+A Pesquisa Nacional de Saúde (PNS) 2019 contou com uma amostra final de 90.846 indivíduos com 15 anos ou mais, apresentando uma taxa de resposta de 96,5%, o que reflete a alta qualidade e confiabilidade dos dados coletados. A coleta envolveu 108.525 domicílios em 2.000 municípios, distribuídos por todas as unidades da federação, garantindo representatividade nacional. Esse desenho amostral possibilita uma análise detalhada das condições de saúde, do acesso a serviços e dos comportamentos da população, com desagregações por região, faixa etária, sexo e outras variáveis sociodemográficas, permitindo, assim, realizar uma avaliação crítica e aprofundada dos dados da saúde no Brasil.
+
 ## Análise dos Fatores de Risco para o AVC
 O diagrama organiza as variáveis demográficas, comportamentais, clínicas e socioeconômicas relacionadas ao AVC.
 
@@ -178,10 +180,6 @@ A tabela a seguir detalha todos os atributos selecionados para o estudo, descrev
 | Variáveis Socioeconômicas e de Acesso à Saúde | j002                       | Principal motivo da procura pelo serviço de saúde                 | Categórico Nominal                 |
 | Variáveis Socioeconômicas e de Acesso à Saúde | j007                       | Local de atendimento de saúde que procura habitualmente           | Categórico Nominal                 |
 | Variáveis Socioeconômicas e de Acesso à Saúde | a005                       | Número total de moradores no domicílio                             | Numérico Inteiro                   |
-
-Este projeto deve utilizar pelo menos duas fontes de dados. Uma fonte principal e 
-uma fonte para enriquecimentos dos dados principais.
-
 
 ###    Descrição de dados
 
