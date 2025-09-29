@@ -88,6 +88,7 @@ Responsável: Thiago Andrade
 Responsável: Iago Paiva
 
 ## Análise exploratória dos dados
+[Diagrama_PNS](Diagrama_PNS_AVC.jpg)
 
 
 ###    Dicionário de dados
