@@ -180,40 +180,6 @@ O código calcula a correlação de todas as variáveis numéricas com a variáv
 | ESTADO_CIVIL            | 0.002525   | Positiva  |
 | SEXO                    | 0.000083   | Positiva  |
 
-## Correlações Positivas
-
-| Variável 1 | Variável 2 | Correlação | Tipo      |
-|------------|------------|------------|-----------|
-| n001       | j001       | 0.906168   | Positiva  |
-| j001       | n001       | 0.906168   | Positiva  |
-| c008       | q064       | 0.715770   | Positiva  |
-| q064       | c008       | 0.715770   | Positiva  |
-| w00101     | w00201     | 0.463110   | Positiva  |
-| w00201     | w00101     | 0.463110   | Positiva  |
-| j007       | q060       | 0.398375   | Positiva  |
-| q060       | j007       | 0.398375   | Positiva  |
-| c008       | j001       | 0.343631   | Positiva  |
-| j001       | c008       | 0.343631   | Positiva  |
-| p027       | w00201     | 0.290498   | Positiva  |
-| w00201     | p027       | 0.290498   | Positiva  |
-| q064       | e001       | 0.287774   | Positiva  |
-| n001       | e001       | 0.215538   | Positiva  |
-| e001       | n001       | 0.215538   | Positiva  |
-
-## Correlações Negativas
-
-| Variável 1 | Variável 2 | Correlação | Tipo      |
-|------------|------------|------------|-----------|
-| c006       | w00201     | -0.637695  | Negativa  |
-| w00201     | c006       | -0.637695  | Negativa  |
-| j007       | c008       | -0.471232  | Negativa  |
-| c008       | j007       | -0.471232  | Negativa  |
-| j007       | j001       | -0.359247  | Negativa  |
-| j001       | j007       | -0.359247  | Negativa  |
-| n001       | j007       | -0.328859  | Negativa  |
-| j007       | n001       | -0.328859  | Negativa  |
-| n001       | w00201     | -0.215305  | Negativa  |
-| w00201     | n001       | -0.215305  | Negativa  |
 
 
 
