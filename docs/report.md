@@ -156,6 +156,30 @@ O código calcula a correlação de todas as variáveis numéricas com a variáv
 
 
 ## Resultado
+
+# Correlação das Variáveis com a Variável Alvo (AVC)
+
+| Variável                | Correlação  | Tipo      |
+|-------------------------|------------|-----------|
+| IDADE                   | -0.147209  | Positiva  |
+| NUM_FILHOS_CASO         | 0.142567   | Positiva  |
+| NUM_FILHOS              | -0.135863  | Negativa  |
+| NIVEL_RENDA             | -0.133265  | Negativa  |
+| TRABALHO                | -0.092929  | Negativa  |
+| NUM_FILHOS_MENORES      | 0.083890   | Positiva  |
+| TABAGISMO               | 0.074825   | Positiva  |
+| SAUDE_AUTO              | 0.060898   | Positiva  |
+| ATIVIDADE_OCUPACIONAL   | 0.055972   | Positiva  |
+| CONSUMO_ALCOOL          | -0.055242  | Negativa  |
+| TEMPO_CAMINHAR          | -0.049952  | Negativa  |
+| ALTURA                  | 0.032799   | Positiva  |
+| DIAS_CONSUMO_FRUTAS     | -0.031354  | Negativa  |
+| TEMPO_ATIV_FISICA       | -0.026456  | Negativa  |
+| PESO                    | 0.005960   | Positiva  |
+| URBAN_RURAL             | 0.004112   | Positiva  |
+| ESTADO_CIVIL            | 0.002525   | Positiva  |
+| SEXO                    | 0.000083   | Positiva  |
+
 ## Correlações Positivas
 
 | Variável 1 | Variável 2 | Correlação | Tipo      |
