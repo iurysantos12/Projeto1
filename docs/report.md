@@ -144,9 +144,40 @@ Após a exploração inicial dos dados, foi identificado que algumas das variáv
 
 ###    Dicionário de dados
 
-Apresente uma descrição das bases de dados a serem utilizadas. 
-Dicionários de dados devem conter as bases de dados, os nomes dos atributos 
-com seu significado, seu tipo (inteiro, real, textual, categórico, etc).
+A tabela a seguir detalha todos os atributos selecionados para o estudo, descrevendo seu significado e tipo de dado.
+
+
+| Base de Dados                     | Nome do Atributo (Variável) | Significado                                                       | Tipo                               |
+|----------------------------------|----------------------------|------------------------------------------------------------------|-----------------------------------|
+| Variável Alvo                     | q068                       | Diagnóstico de Acidente Vascular Cerebral (AVC) ou derrame       | Categórico (Binário) - Alvo       |
+| Variáveis Demográficas e Geográficas | c006                       | Sexo do morador                                                  | Categórico Nominal                 |
+| Variáveis Demográficas e Geográficas | c008                       | Idade do morador em anos                                         | Numérico Inteiro                   |
+| Variáveis Demográficas e Geográficas | c009                       | Cor ou raça autodeclarada                                        | Categórico Nominal                 |
+| Variáveis Demográficas e Geográficas | d009                       | Nível de escolaridade mais elevado alcançado                     | Categórico Ordinal                 |
+| Variáveis Demográficas e Geográficas | v0026                      | Situação do domicílio (Urbano/Rural)                             | Categórico Nominal                 |
+| Variáveis Clínicas e Comorbidades | q002                       | Diagnóstico de Hipertensão Arterial                               | Categórico Binário                 |
+| Variáveis Clínicas e Comorbidades | q030                       | Diagnóstico de Diabetes                                          | Categórico Binário                 |
+| Variáveis Clínicas e Comorbidades | q060                       | Diagnóstico de Colesterol Alto                                    | Categórico Binário                 |
+| Variáveis Clínicas e Comorbidades | q064                       | Diagnóstico de Doença do Coração                                  | Categórico Binário                 |
+| Variáveis Clínicas e Comorbidades | n001                       | Autoavaliação do estado de saúde                                  | Categórico Ordinal                 |
+| Variáveis Clínicas e Comorbidades | q092                       | Diagnóstico de Doença Renal Crônica                                | Categórico Binário                 |
+| Variáveis Clínicas e Comorbidades | w00101                     | Peso corporal em quilogramas (medido)                             | Numérico Contínuo (Real)          |
+| Variáveis Clínicas e Comorbidades | w00201                     | Altura em centímetros (medida)                                     | Numérico Contínuo (Real)          |
+| Variáveis Comportamentais         | p027                       | Hábito de fumar (diariamente, menos que diariamente, não fuma)   | Categórico Ordinal                 |
+| Variáveis Comportamentais         | p028                       | Frequência de consumo de bebida alcoólica                         | Categórico Ordinal                 |
+| Variáveis Comportamentais         | p034                       | Prática de atividade física no tempo livre                        | Categórico Binário                 |
+| Variáveis Comportamentais         | p035                       | Tempo total em atividade física por semana (minutos)              | Numérico Inteiro                   |
+| Variáveis Comportamentais         | p00402                     | Número de dias na semana que consome frutas                       | Numérico Inteiro                   |
+| Variáveis Comportamentais         | p00802                     | Número de dias na semana que consome verduras/legumes             | Numérico Inteiro                   |
+| Variáveis Comportamentais         | p025                       | Número de dias na semana que consome refrigerante/suco artificial | Numérico Inteiro                   |
+| Variáveis Comportamentais         | p020                       | Autoavaliação do consumo de sal                                   | Categórico Ordinal                 |
+| Variáveis Socioeconômicas e de Acesso à Saúde | i001                       | Posse de plano de saúde médico ou odontológico                    | Categórico Binário                 |
+| Variáveis Socioeconômicas e de Acesso à Saúde | f00101                     | Rendimento domiciliar per capita em Reais                          | Numérico Contínuo (Real)          |
+| Variáveis Socioeconômicas e de Acesso à Saúde | e001                       | Condição na ocupação (emprego)                                    | Categórico Nominal                 |
+| Variáveis Socioeconômicas e de Acesso à Saúde | j001                       | Procurou algum serviço de saúde nas últimas duas semanas           | Categórico Binário                 |
+| Variáveis Socioeconômicas e de Acesso à Saúde | j002                       | Principal motivo da procura pelo serviço de saúde                 | Categórico Nominal                 |
+| Variáveis Socioeconômicas e de Acesso à Saúde | j007                       | Local de atendimento de saúde que procura habitualmente           | Categórico Nominal                 |
+| Variáveis Socioeconômicas e de Acesso à Saúde | a005                       | Número total de moradores no domicílio                             | Numérico Inteiro                   |
 
 Este projeto deve utilizar pelo menos duas fontes de dados. Uma fonte principal e 
 uma fonte para enriquecimentos dos dados principais.
