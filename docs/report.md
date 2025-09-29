@@ -88,7 +88,14 @@ Responsável: Thiago Andrade
 Responsável: Iago Paiva
 
 ## Análise exploratória dos dados
-![Descrição da imagem](docs/imagens/Diagrama_PNS_AVC.jpg)
+
+## Análise dos Fatores de Risco para o AVC
+O diagrama organiza as variáveis demográficas, comportamentais, clínicas e socioeconômicas relacionadas ao AVC.
+
+![Diagrama PNS AVC](imagens/Diagrama_PNS_AVC.jpg)
+
+A partir dele, faremos agora uma análise de correlação para medir a força da associação entre cada um desses fatores e a ocorrência de um AVC, identificando as variáveis de maior impacto.
+
 
 
 ###    Dicionário de dados
