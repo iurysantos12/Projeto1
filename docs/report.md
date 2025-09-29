@@ -92,11 +92,23 @@ Responsável: Iago Paiva
 ## Análise dos Fatores de Risco para o AVC
 O diagrama organiza as variáveis demográficas, comportamentais, clínicas e socioeconômicas relacionadas ao AVC.
 
-![Diagrama PNS AVC](imagens/Diagrama_PNS_AVC.jpg)
-
 A partir dele, faremos agora uma análise de correlação para medir a força da associação entre cada um desses fatores e a ocorrência de um AVC, identificando as variáveis de maior impacto.
 
+![Diagrama PNS AVC](imagens/Diagrama_PNS_AVC.jpg)
 
+Após a exploração inicial dos dados, foi identificado que algumas das variáveis previamente selecionadas em nosso diagrama conceitual não estavam presentes no conjunto de dados final. Em função dessa indisponibilidade, foi necessário realizar um ajuste no escopo do projeto. As variáveis não encontradas foram, portanto, removidas da análise, que agora prosseguirá focada nos dados efetivamente validados.
+
+![Diagrama PNS Cut](imagens/DIagrama_PNS_Cut.jpg)
+
+## Cortes do Diagrama
+## Variáveis Demográficas
+![Corte_1](imagens/Cut1.jpg)
+## Variáveis Socioeconômicas
+![Corte_2](imagens/Cut2.jpg)
+## Variáveis Clínicas
+![Corte_3](imagens/Cut3.jpg)
+## Variáveis Comportamentais
+![Corte_4](imagens/Cut4.jpg)
 
 ###    Dicionário de dados
 
