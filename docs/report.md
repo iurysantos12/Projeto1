@@ -180,8 +180,7 @@ O código calcula a correlação de todas as variáveis numéricas com a variáv
 | ESTADO_CIVIL            | 0.002525   | Positiva  |
 | SEXO                    | 0.000083   | Positiva  |
 
-
-
+A correlação entre variáveis pode apresentar sinal negativo mesmo quando se espera uma relação positiva devido a fatores como distribuição da amostra, dados ausentes ou inconsistentes, ou influência de outras variáveis que afetam a relação linear direta.
 
 ###    Dicionário de dados
 
