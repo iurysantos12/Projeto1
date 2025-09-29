@@ -87,7 +87,8 @@ Responsável: Thiago Andrade
 - Validação e cruzamento das variáveis –> Identificação de correlações relevantes entre variáveis demográficas, clínicas e comportamentais.
 Responsável: Iago Paiva
 
-## Análise exploratórida dos dados
+## Análise exploratória dos dados
+
 
 ###    Dicionário de dados
 
