@@ -114,13 +114,13 @@ Após a exploração inicial dos dados, foi identificado que algumas das variáv
 
 ## Cortes do Diagrama
 ## Variáveis Demográficas
-![Corte_1](imagens/Cut1.jpg)
+![Corte_1](imagens/Demograficas.jpg)
 ## Variáveis Socioeconômicas
-![Corte_2](imagens/Cut2.jpg)
+![Corte_2](imagens/Socioeconomicas.jpg)
 ## Variáveis Clínicas
-![Corte_3](imagens/Cut3.jpg)
+![Corte_3](imagens/Clinicas.jpg)
 ## Variáveis Comportamentais
-![Corte_4](imagens/Cut4.jpg)]
+![Corte_4](imagens/Comportamentais.jpg)]
 
 ## Variáveis Definidas
 
