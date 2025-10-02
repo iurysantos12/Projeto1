@@ -110,7 +110,7 @@ A partir dele, faremos agora uma análise de correlação para medir a força da
 
 Após a exploração inicial dos dados, foi identificado que algumas das variáveis previamente selecionadas em nosso diagrama conceitual não estavam presentes no conjunto de dados final. Em função dessa indisponibilidade, foi necessário realizar um ajuste no escopo do projeto. As variáveis não encontradas foram, portanto, removidas da análise, que agora prosseguirá focada nos dados efetivamente validados.
 
-![Diagrama PNS Cut](imagens/DIagrama_PNS_Cut.jpg)
+![Diagrama PNS Cut](imagens/DrawioATT.jpg)
 
 ## Cortes do Diagrama
 ## Variáveis Demográficas
