@@ -175,6 +175,25 @@ A análise de dados ausentes revela que algumas variáveis da PNS 2019 apresenta
 
 Variáveis de menor ausência, como sexo, idade, peso e forma de abastecimento de água, apresentam cerca de 4,88% de dados ausentes, enquanto indicadores demográficos básicos, como situação do domicílio, região geográfica e unidade da federação, não apresentam registros ausentes, garantindo uma base consistente para análises agregadas por localidade
 
+### Outliers 
+Foi realizada a detecção de outliers nas principais variáveis numéricas da base PNS 2019 utilizando o método do IQR (Intervalo Interquartil). 
+Os resultados indicam:
+
+| Variável                                      | Número de Outliers | Limite Inferior | Limite Superior |
+|-----------------------------------------------|------------------|----------------|----------------|
+| Peso do morador selecionado                   | 4.457            | 0.00           | 8.00           |
+| Altura do morador (em cm)                     | 21               | 135.70         | 192.50         |
+| Idade do morador (em anos)                    | 7                | -35.50         | 104.50         |
+| Prática de atividade física (tempo semanal)  | 0                | -2.50          | 9.50           |
+
+Peso do morador selecionado: grande quantidade de outliers (4.457), com limites de 0 a 8 kg, sugerindo registros possivelmente inválidos ou erros de digitação.
+
+Altura do morador (em cm): 21 outliers, dentro de limites plausíveis, mas ainda possivelmente inconsistentes com medidas reais.
+
+Idade do morador (em anos): 7 outliers, com limites negativos ou muito acima da expectativa, indicando registros inválidos.
+
+Prática de atividade física (tempo semanal): nenhum outlier detectado, mostrando consistência dos dados.
+
 ### Algoritmo de Correlações
 
 O código calcula a correlação de todas as variáveis numéricas com a variável alvo **AVC**, substitui os códigos pelos respectivos nomes, classifica como positiva ou negativa e ordena do valor absoluto mais alto ao mais baixo, exportando o resultado para um novo arquivo **CSV**.
