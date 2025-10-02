@@ -163,9 +163,9 @@ Ao definir as variáveis incluídas, estruturaremos a função para ler o layout
 ![Layout2](imagens/Ler_Layout3.jpg)
 
 ### Resultado Amostral
+Observando a quantidade de amostras válidas por variável, é possível notar que algumas variáveis possuem cobertura praticamente completa, enquanto outras apresentam valores faltantes significativos. Por exemplo, variáveis como “Unidade da Federação (UF)”, “Situação do domicílio (urbano/rural)” e “Região geográfica” têm quase todas as 293.726 amostras disponíveis, garantindo confiabilidade para análises agregadas. Já variáveis de saúde e estilo de vida, como “Consumo de tabaco” e “Prática de atividade física”, apresentam menos de 40.000 registros válidos, indicando que essas informações foram coletadas apenas para uma subamostra da pesquisa. Medidas antropométricas, como peso e altura, também possuem poucas observações válidas (em torno de 6.500), o que deve ser considerado ao analisar o IMC. Essa distribuição evidencia a importância de tratar valores ausentes e interpretar os resultados considerando o tamanho efetivo da amostra para cada variável foco.
 
 ![Amostragem](imagens/Avaliacao_Estatistica.jpg)
-
 ### Algoritmo de Correlações
 
 O código calcula a correlação de todas as variáveis numéricas com a variável alvo **AVC**, substitui os códigos pelos respectivos nomes, classifica como positiva ou negativa e ordena do valor absoluto mais alto ao mais baixo, exportando o resultado para um novo arquivo **CSV**.
