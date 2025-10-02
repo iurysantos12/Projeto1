@@ -1,4 +1,3 @@
-# Análise de fatores associados ao Acidente Vascular Cerebral (AVC)
 
 
 **Iury Mota Santos, iury.santos@sga.pucminas.br**
@@ -96,6 +95,7 @@ Para iniciarmos as análises, se faz necessário preparar o ambiente e os dados 
 ![Imports](imagens/Imports.jpg)
 ![Configs](imagens/Configs.jpg)
 ![Variaveis](imagens/Variaveis_Selecionadas.jpg)
+![Dicionario](imagens/Dicionarios.jpg)
 
 
 
