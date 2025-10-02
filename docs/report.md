@@ -90,7 +90,7 @@ Responsável: Iago Paiva
 
 A Pesquisa Nacional de Saúde (PNS) 2019 contou com uma amostra final de 293.726 com 15 anos ou mais, apresentando uma taxa de resposta de 96,5%, o que reflete a alta qualidade e confiabilidade dos dados coletados. A coleta envolveu 108.525 domicílios em 2.000 municípios, distribuídos por todas as unidades da federação, garantindo representatividade nacional. 
 
-Para iniciarmos as análises, se faz necessário preparar o ambiente e os dados disponíveis. O layout SAS (input_PNS_2019.sas) foi lido para identificar as posições e larguras de cada variável no arquivo de dados. Em seguida, o arquivo de dados (PNS_2019.txt) foi carregado em um DataFrame do pandas, mantendo apenas as variáveis de interesse, de forma a otimizar o processamento e focar nas informações relevantes para o estudo.
+Para iniciarmos as análises, se faz necessário preparar o ambiente e os dados disponíveis. O layout SAS (**input_PNS_2019.sas**) foi lido para identificar as posições e larguras de cada variável no arquivo de dados. Em seguida, o arquivo de dados (**PNS_2019.txt**) foi carregado em um DataFrame do pandas, mantendo apenas as variáveis de interesse, de forma a otimizar o processamento e focar nas informações relevantes para o estudo.
 
 ### Imports
 ![Imports](imagens/Imports.jpg)
@@ -100,10 +100,6 @@ Para iniciarmos as análises, se faz necessário preparar o ambiente e os dados 
 ![Variaveis](imagens/Variaveis_Selecionadas.jpg)
 ### Dicionário das Variáveis
 ![Dicionario](imagens/Dicionarios.jpg)
-
-
-
-
 
 ## Análise dos Fatores de Risco para o AVC
 Esse desenho amostral possibilita uma análise detalhada das condições de saúde, do acesso a serviços e dos comportamentos da população, com desagregações por região, faixa etária, sexo e outras variáveis sociodemográficas, permitindo, assim, realizar uma avaliação crítica e aprofundada dos dados da saúde no Brasil.
