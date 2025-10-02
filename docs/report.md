@@ -144,7 +144,7 @@ Após a exploração inicial dos dados, foi identificado que algumas das variáv
 | Tempo Total em Atividade Física                 | p035             | Permaneceu na Análise   |
 | Consumo de Frutas (dias/semana)                 | p00402           | Permaneceu na Análise   |
 | Consumo de Verduras e Legumes (dias/semana)      | p00802           | Permaneceu na Análise  |
-| Forma como a água chega ao domicílio (canalizada, sem canalização etc.)| j002             | Permaneceu na Análise   |
+| Forma como a água chega ao domicílio (canalizada, sem canalização etc.)| j004             | Permaneceu na Análise   |
 | Rendimento Domiciliar Per Capita                 | f00101           | Permaneceu na Análise   |
 | Condição na Ocupação (Emprego)                  | e001             | Permaneceu na Análise   |
 | Local de atendimento habitual                    | j007             | Foi Removida   |
