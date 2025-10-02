@@ -157,8 +157,7 @@ Após a exploração inicial dos dados, foi identificado que algumas das variáv
 | Se procurou serviço de saúde                     | j001             | Foi Removida  |
 | Principal motivo da procura por saúde            | j002             | Foi Removida   |
 
-
-
+Ao definir as variáveis incluídas, estruturaremos a função para ler o layout do dataset e selecionar apenas as variáveis que foram mantidas.
 
 ### Algoritmo de Correlações
 
