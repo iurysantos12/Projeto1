@@ -92,9 +92,13 @@ A Pesquisa Nacional de Saúde (PNS) 2019 contou com uma amostra final de 293.726
 
 Para iniciarmos as análises, se faz necessário preparar o ambiente e os dados disponíveis. O layout SAS (input_PNS_2019.sas) foi lido para identificar as posições e larguras de cada variável no arquivo de dados. Em seguida, o arquivo de dados (PNS_2019.txt) foi carregado em um DataFrame do pandas, mantendo apenas as variáveis de interesse, de forma a otimizar o processamento e focar nas informações relevantes para o estudo.
 
+### Imports
 ![Imports](imagens/Imports.jpg)
+### Configurações de inicialização
 ![Configs](imagens/Configs.jpg)
+### Variáveis Selecionadas
 ![Variaveis](imagens/Variaveis_Selecionadas.jpg)
+### Dicionário das Variáveis
 ![Dicionario](imagens/Dicionarios.jpg)
 
 
