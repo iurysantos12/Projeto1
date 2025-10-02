@@ -129,30 +129,37 @@ Após a exploração inicial dos dados, foi identificado que algumas das variáv
 | Diagnóstico de AVC (Derrame)                     | q068             | Permaneceu na Análise   |
 | Sexo                                              | c006             | Permaneceu na Análise   |
 | Idade                                             | c008             | Permaneceu na Análise   |
-| Cor ou Raça                                      | c009             | Permaneceu na Análise   |
 | Situação do Domicílio (Urbano/Rural)            | v0026            | Permaneceu na Análise   |
 | Diagnóstico de Colesterol Alto                   | q060             | Permaneceu na Análise   |
 | Diagnóstico de Doença do Coração                 | q064             | Permaneceu na Análise   |
 | Autoavaliação do Estado de Saúde                 | n001             | Permaneceu na Análise   |
-| Diagnóstico de Doença Renal Crônica              | q092             | Permaneceu na Análise   |
+| Diagnóstico de Hipertensão Arterial              | q002             | Permaneceu na Análise   |
+| Diagnóstico de Diabetes                           | q030             | Permaneceu na Análise   |
+| Diagnóstico de Depressão                           | q092             | Permaneceu na Análise   |
 | Peso (para o IMC)                                | w00101           | Permaneceu na Análise   |
 | Altura (para o IMC)                              | w00201           | Permaneceu na Análise   |
-| Tabagismo                                        | p027             | Permaneceu na Análise   |
+| Consumo de Alcool                                 | p027             | Permaneceu na Análise   |
+| Consumo de Tabaco                                 | p027             | Permaneceu na Análise   |
 | Prática de Atividade Física no tempo livre      | p034             | Permaneceu na Análise   |
 | Tempo Total em Atividade Física                 | p035             | Permaneceu na Análise   |
 | Consumo de Frutas (dias/semana)                 | p00402           | Permaneceu na Análise   |
+| Consumo de Verduras e Legumes (dias/semana)      | p00802           | Permaneceu na Análise  |
+
+| Forma como a água chega ao domicílio (canalizada, sem canalização etc.)| j002             | Permaneceu na Análise   |
+| Rendimento Domiciliar Per Capita                 | f00101           | Permaneceu na Análise   |
 | Condição na Ocupação (Emprego)                  | e001             | Permaneceu na Análise   |
-| Se procurou serviço de saúde                     | j001             | Permaneceu na Análise   |
-| Principal motivo da procura por saúde            | j002             | Permaneceu na Análise   |
-| Local de atendimento habitual                    | j007             | Permaneceu na Análise   |
+| Local de atendimento habitual                    | j007             | Foi Removida   |
 | Nível de Escolaridade                             | d009             | Foi Removida            |
-| Diagnóstico de Hipertensão Arterial              | q002             | Foi Removida            |
-| Diagnóstico de Diabetes                           | q030             | Foi Removida        |
-| Consumo de Verduras e Legumes (dias/semana)      | p00802           | Foi Removida            |
 | Consumo de Refrigerante ou Suco Artificial       | p025             | Foi Removida            |
 | Autoavaliação do Consumo de Sal                  | p020             | Foi Removida          |
 | Posse de Plano de Saúde                           | i001             | Foi Removida           |
-| Rendimento Domiciliar Per Capita                 | f00101           | Foi Removida            |
+| Cor ou Raça                                      | c009             | Foi Removida   |
+| Diagnóstico de Doença Renal Crônica              | q092             | Foi Removida  |
+| Se procurou serviço de saúde                     | j001             | Foi Removida  |
+| Principal motivo da procura por saúde            | j002             | Foi Removida   |
+
+
+
 
 ### Algoritmo de Correlações
 
