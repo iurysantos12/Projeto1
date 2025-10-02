@@ -162,6 +162,9 @@ Ao definir as variáveis incluídas, estruturaremos a função para ler o layout
 ![Layout1](imagens/Ler_Layout.jpg)
 ![Layout2](imagens/Ler_Layout3.jpg)
 
+### Resultado Amostral
+
+![Amostragem](imagens/Avaliacao_Estatistica.jpg)
 
 ### Algoritmo de Correlações
 
