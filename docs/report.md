@@ -205,11 +205,11 @@ O código calcula a correlação de todas as variáveis numéricas com a variáv
 
 ## Resultado
 
-A primeira abordagem metodológica consistiu no cálculo da correlação linear de Pearson. Contudo, o resultado indicou uma correlação negativa entre as variáveis, o que sugeriria, de forma contraintuitiva, que o aumento da idade estaria associado a uma menor ocorrência de AVC
+A primeira abordagem metodológica consistiu no cálculo da **correlação linear de Pearson**. Contudo, o resultado indicou uma correlação negativa entre as variáveis, o que sugeriria, de forma **contraintuitiva**, que o aumento da idade estaria associado a uma menor ocorrência de AVC
 
 ![Resultado_Correlação](imagens/Resultado_correlacao.jpg)
 
-Para superar essa limitação e avaliar a hipótese de forma mais adequada, optou-se por uma segunda análise utilizando o teste Qui-Quadrado de independência. Este método é ideal para verificar a existência de associação entre variáveis categóricas, tratando cada faixa etária como uma categoria distinta.
+Para superar essa limitação e avaliar a hipótese de forma mais adequada, optou-se por uma segunda análise utilizando o teste **Qui-Quadrado** de independência. Este método é ideal para verificar a existência de associação entre variáveis categóricas, tratando cada faixa etária como uma categoria distinta.
 
 ![Resultado_Correlação](imagens/Qui_correlacao.jpg)
 
@@ -218,6 +218,10 @@ Diferente da correlação linear (que apresentou um resultado negativo confuso d
 ![Resultado_Correlação](imagens/Qui_Resultado.jpg)
 
 O gráfico serve como a evidência visual definitiva que corrobora o resultado do teste Qui-Quadrado. Ele não apenas confirma que existe uma associação significativa entre idade e AVC, mas também demonstra a natureza dessa relação: o risco aumenta progressivamente com o envelhecimento
+
+![Resultado_Correlação](imagens/Plot_idade_avc.jpg)
+
+Continuando a exploração, vimos que a prática de atividade física também demonstrou uma aparente correlação positiva com o diagnóstico. Essa correlação acontece porque a idade é o fator predominante por trás do resultado: pessoas idosas ou aposentadas, que já possuem um risco naturalmente elevado de AVC, frequentemente mantêm um ritmo de atividade física maior. Por isso, a taxa de AVC parece aumentar nos dados conforme a frequência de atividade semanal também aumenta, criando uma associação que não é de causa e efeito direto.
 
 # Correlação das Variáveis com a Variável Alvo (AVC)
 
