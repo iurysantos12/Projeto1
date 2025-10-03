@@ -215,7 +215,7 @@ Para superar essa limitação e avaliar a hipótese de forma mais adequada, opto
 
 Diferente da correlação linear (que apresentou um resultado negativo confuso devido à forma de codificação dos dados), o teste Qui-Quadrado confirma que existe uma associação estatisticamente significativa entre a faixa etária e o diagnóstico de AVC. Isso valida a hipótese inicial de que as duas variáveis estão relacionadas.
 
-![Resultado_Correlação](imagens/Qui_resultado.jpg)
+![Resultado_Correlação](imagens/Qui_Resultado.jpg)
 
 
 # Correlação das Variáveis com a Variável Alvo (AVC)
