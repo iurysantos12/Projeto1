@@ -225,6 +225,11 @@ Continuando a exploração, vimos que a prática de atividade física também de
 
 ![Resultado_Correlação](imagens/Plot_atvfisica_avc.jpg)
 
+### Teorema de Simpson
+
+A análise demonstrou uma correlação direta e robusta entre o avanço da idade e o aumento no diagnóstico de AVC, estabelecendo uma base clara para a compreensão do principal fator de risco. No entanto, a clareza dessa relação serve como um alerta para armadilhas estatísticas complexas, como o **Paradoxo de Simpson**. Este fenômeno ocorre quando uma tendência observada em um conjunto de dados agregado desaparece ou se inverte ao ser analisado em subgrupos, geralmente devido a uma variável de confusão. Embora a relação entre idade e AVC seja direta, a idade em si é um fator tão dominante que sua influência pode facilmente distorcer a análise de outras variáveis, criando resultados paralelos.
+
+
 
 # Correlação das Variáveis com a Variável Alvo (AVC)
 
