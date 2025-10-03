@@ -237,6 +237,9 @@ Este fenômeno ocorre quando uma tendência observada em um conjunto de dados ag
 
 Ao refatorar a análise para faixas etárias específicas, o problema contido no paradoxo se dissipa, pois o efeito da idade é isolado. Dessa forma, é possível analisar e compreender corretamente a influência real de outras variáveis dentro de cada um desses grupos.
 
+![Resultado_Correlação](imagens/Correlacao_certa.jpg)
+
+
 # Correlação das Variáveis com a Variável Alvo (AVC)
 
 | Variável                                         | Correlação   | Tipo      |
