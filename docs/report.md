@@ -228,26 +228,23 @@ Continuando a exploração, vimos que a prática de atividade física também de
 
 # Correlação das Variáveis com a Variável Alvo (AVC)
 
-| Variável                | Correlação  | Tipo      |
-|-------------------------|------------|-----------|
-| Sexo do Indivíduo         | -0.147209  | Positiva  |
-| Idade do Indivíduo        | 0.142567   | Positiva  |
-| Peso do Indivíduo      | -0.135863  | Negativa  |
-| Renda_Per_Capt             | -0.133265  | Negativa  |
-| Regiao Geografica            | -0.092929  | Negativa  |
-| Situacao da Moradia (Urbano/Rural)     | 0.083890   | Positiva  |
-| Consumo de Tabaco | 0.074825   | Positiva  |
-| Consumo de Alcool       | 0.060898   | Positiva  |
-| Diagnóstico médico de hipertensão arterial   | 0.055972   | Positiva  |
-| Forma como a água chega ao domicílio          | -0.055242  | Negativa  |
-| Diagnóstico médico de hipertensão arterial          | -0.049952  | Negativa  |
-| Diagnóstico médico de diabetes                  | 0.032799   | Positiva  |
-| Diagnóstico médico de colesterol alto     | -0.031354  | Negativa  |
-| Diagnóstico médico de problema no coração       | -0.026456  | Negativa  |
-| Diagnóstico médico de depressão                    | 0.005960   | Positiva  |
-| Autoavaliação do estado de saúde (muito bom, bom, regular etc.)             | 0.004112   | Positiva  |
-| Prática de atividade física (tempo semanal)            | 0.002525   | Positiva  |
-| Frequência de consumo -> Boa alimentação                    | 0.000083   | Positiva  |
+| Variável                                         | Correlação   | Tipo      |
+|-------------------------------------------------|-------------|-----------|
+| Diagnóstico médico de colesterol alto           | 0.074825    | Positiva  |
+| Diagnóstico médico de depressão                 | 0.060898    | Positiva  |
+| Peso do morador selecionado                     | 0.041562    | Positiva  |
+| Altura do morador (em cm)                       | 0.032799    | Positiva  |
+| Peso do morador (em kg)                         | 0.005960    | Positiva  |
+| Atualmente, o(a) Sr(a) fuma algum produto do tabaco | 0.004944 | Positiva  |
+| Situação do domicílio (urbano/rural)           | 0.004112    | Positiva  |
+| Forma como a água chega ao domicílio           | 0.003576    | Positiva  |
+| Unidade da Federação (UF)                       | 0.000695    | Positiva  |
+| Sexo do morador (masculino/feminino)           | 0.000083    | Positiva  |
+| Região geográfica                               | -0.000088   | Negativa  |
+| Prática de atividade física (tempo semanal)    | -0.026456   | Positiva  |
+| Diagnóstico médico de problema no coração      | -0.055242   | Negativa  |
+| Idade do morador (em anos)                      | -0.147209   | Positiva  |
+
 
 A correlação entre variáveis pode apresentar sinal negativo mesmo quando se espera uma relação positiva devido a fatores como distribuição da amostra, dados ausentes ou inconsistentes, ou influência de outras variáveis que afetam a relação linear direta.
 
