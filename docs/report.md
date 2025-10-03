@@ -223,6 +223,9 @@ O gráfico serve como a evidência visual definitiva que corrobora o resultado d
 
 Continuando a exploração, vimos que a prática de atividade física também demonstrou uma aparente correlação positiva com o diagnóstico. Essa correlação acontece porque a idade é o fator predominante por trás do resultado: pessoas idosas ou aposentadas, que já possuem um risco naturalmente elevado de AVC, frequentemente mantêm um ritmo de atividade física maior. Por isso, a taxa de AVC parece aumentar nos dados conforme a frequência de atividade semanal também aumenta, criando uma associação que não é de causa e efeito direto.
 
+![Resultado_Correlação](imagens/Plot_atvfisica_avc.jpg)
+
+
 # Correlação das Variáveis com a Variável Alvo (AVC)
 
 | Variável                | Correlação  | Tipo      |
