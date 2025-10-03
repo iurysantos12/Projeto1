@@ -217,6 +217,7 @@ Diferente da correlação linear (que apresentou um resultado negativo confuso d
 
 ![Resultado_Correlação](imagens/Qui_Resultado.jpg)
 
+O gráfico serve como a evidência visual definitiva que corrobora o resultado do teste Qui-Quadrado. Ele não apenas confirma que existe uma associação significativa entre idade e AVC, mas também demonstra a natureza dessa relação: o risco aumenta progressivamente com o envelhecimento
 
 # Correlação das Variáveis com a Variável Alvo (AVC)
 
