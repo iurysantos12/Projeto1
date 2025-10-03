@@ -205,7 +205,7 @@ O código calcula a correlação de todas as variáveis numéricas com a variáv
 
 ## Resultado
 
-![Resultado_Correlação](imagens/Resultados_correlacao.jpg)
+![Resultado_Correlação](imagens/Resultado_correlacao.jpg)
 
 
 # Correlação das Variáveis com a Variável Alvo (AVC)
