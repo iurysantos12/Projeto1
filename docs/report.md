@@ -122,7 +122,7 @@ Após a exploração inicial dos dados, foi identificado que algumas das variáv
 ## Variáveis Comportamentais
 ![Corte_4](imagens/Comportamentais.jpg)]
 
-## Variáveis Definidas
+## Variáveis Definidas Após Exploração Inicial:
 
 | Descrição                                           | Código da Variável | Status                    |
 |---------------------------------------------------|------------------|---------------------------|
@@ -262,7 +262,7 @@ Ao refatorar a análise para faixas etárias específicas, o problema contido no
 
 A correlação entre variáveis pode apresentar sinal negativo mesmo quando se espera uma relação positiva devido a fatores como distribuição da amostra, dados ausentes ou inconsistentes, ou influência de outras variáveis que afetam a relação linear direta.
 
-###    Dicionário de dados
+###    Dicionário de dados 
 
 A tabela a seguir detalha todos os atributos selecionados para o estudo, descrevendo seu significado e tipo de dado.
 
@@ -287,6 +287,13 @@ A tabela a seguir detalha todos os atributos selecionados para o estudo, descrev
 | Variáveis Comportamentais         | p027                       | Frequência de consumo de bebida alcoólica                         | Categórico Ordinal                 |
 | Variáveis Socioeconômicas         | f00101                     | Rendimento domiciliar per capita em Reais                          | Numérico Contínuo (Real)          |             
 | Variáveis Alimentares             | Boa_Alimentacao            | Indicador de boa alimentação | Categórico Binário                 |
+
+### Variáveis Retiradas da Análise 
+
+| Base de Dados                     | Nome do Atributo (Variável) | Significado                                                       | Tipo                               |
+|----------------------------------|----------------------------|------------------------------------------------------------------|-----------------------------------|
+| Variáveis Clínicas e Comorbidades                      | q064                       | Diagnóstico de Doença do Coração         | Categórico (Binário)        |
+
 
 
 ###    Descrição de dados
