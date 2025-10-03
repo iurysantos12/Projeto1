@@ -205,7 +205,17 @@ O código calcula a correlação de todas as variáveis numéricas com a variáv
 
 ## Resultado
 
+A primeira abordagem metodológica consistiu no cálculo da correlação linear de Pearson. Contudo, o resultado indicou uma correlação negativa entre as variáveis, o que sugeriria, de forma contraintuitiva, que o aumento da idade estaria associado a uma menor ocorrência de AVC
+
 ![Resultado_Correlação](imagens/Resultado_correlacao.jpg)
+
+Para superar essa limitação e avaliar a hipótese de forma mais adequada, optou-se por uma segunda análise utilizando o teste Qui-Quadrado de independência. Este método é ideal para verificar a existência de associação entre variáveis categóricas, tratando cada faixa etária como uma categoria distinta.
+
+![Resultado_Correlação](imagens/Qui_correlacao.jpg)
+
+Diferente da correlação linear (que apresentou um resultado negativo confuso devido à forma de codificação dos dados), o teste Qui-Quadrado confirma que existe uma associação estatisticamente significativa entre a faixa etária e o diagnóstico de AVC. Isso valida a hipótese inicial de que as duas variáveis estão relacionadas.
+
+![Resultado_Correlação](imagens/Qui_resultado.jpg)
 
 
 # Correlação das Variáveis com a Variável Alvo (AVC)
