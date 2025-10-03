@@ -139,7 +139,7 @@ Após a exploração inicial dos dados, foi identificado que algumas das variáv
 | Peso (para o IMC)                                | w00101           | Permaneceu na Análise   |
 | Altura (para o IMC)                              | w00201           | Permaneceu na Análise   |
 | Consumo de Alcool                                 | p027             | Permaneceu na Análise   |
-| Consumo de Tabaco                                 | p027             | Permaneceu na Análise   |
+| Consumo de Tabaco                                 | N001             | Permaneceu na Análise   |
 | Prática de Atividade Física no tempo livre      | p034             | Permaneceu na Análise   |
 | Tempo Total em Atividade Física                 | p035             | Permaneceu na Análise   |
 | Consumo de Frutas (dias/semana)                 | p00402           | Permaneceu na Análise   |
