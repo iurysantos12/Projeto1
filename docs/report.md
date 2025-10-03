@@ -200,9 +200,7 @@ Prática de atividade física (tempo semanal): nenhum outlier detectado, mostran
 
 O código calcula a correlação de todas as variáveis numéricas com a variável alvo **AVC**, substitui os códigos pelos respectivos nomes, classifica como positiva ou negativa e ordena do valor absoluto mais alto ao mais baixo, exportando o resultado para um novo arquivo **CSV**.
 
-![Algoritmo de Correlações](imagens/Variaveis.jpg)
 
-![Algoritmo de Correlações](imagens/Codigocorrelacao.jpg)
 
 ## Resultado
 
