@@ -142,11 +142,10 @@ Após a exploração inicial dos dados, foi identificado que algumas das variáv
 | Consumo de Tabaco                                 | N001             | Permaneceu na Análise   |
 | Prática de Atividade Física no tempo livre      | p034             | Permaneceu na Análise   |
 | Tempo Total em Atividade Física                 | p035             | Permaneceu na Análise   |
-| Consumo de Frutas (dias/semana)                 | p00402           | Permaneceu na Análise   |
 | Consumo de Verduras e Legumes (dias/semana)      | p00802           | Permaneceu na Análise  |
 | Forma como a água chega ao domicílio (canalizada, sem canalização etc.)| j004             | Permaneceu na Análise   |
 | Rendimento Domiciliar Per Capita                 | f00101           | Permaneceu na Análise   |
-| Condição na Ocupação (Emprego)                  | e001             | Permaneceu na Análise   |
+| Condição na Ocupação (Emprego)                  | e001             | Foi Removida   |
 | Local de atendimento habitual                    | j007             | Foi Removida   |
 | Nível de Escolaridade                             | d009             | Foi Removida            |
 | Consumo de Refrigerante ou Suco Artificial       | p025             | Foi Removida            |
@@ -156,6 +155,9 @@ Após a exploração inicial dos dados, foi identificado que algumas das variáv
 | Diagnóstico de Doença Renal Crônica              | q092             | Foi Removida  |
 | Se procurou serviço de saúde                     | j001             | Foi Removida  |
 | Principal motivo da procura por saúde            | j002             | Foi Removida   |
+| Consumo de Frutas (dias/semana)                 | p00402           | Foi Removida   |
+| Consumo de Verduras e Legumes (dias/semana)      | p00802           | Foi Removida  |
+
 
 Ao definir as variáveis incluídas, estruturaremos a função para ler o layout do dataset e selecionar apenas as variáveis que foram mantidas.
 
