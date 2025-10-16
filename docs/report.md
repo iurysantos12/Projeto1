@@ -161,7 +161,6 @@ Após a exploração inicial dos dados, foi identificado que algumas das variáv
 
 Ao definir as variáveis incluídas, estruturaremos a função para ler o layout do dataset e selecionar apenas as variáveis que foram mantidas.
 
-![Layout1](imagens/Ler_Layout.jpg)
 ![Layout2](imagens/Ler_Layout3.jpg)
 
 ### Resultado Amostral
