@@ -334,6 +334,10 @@ Repita os passos anteriores para o segundo modelo.
 
 ### Resultados obtidos com o modelo 1.
 
+![Resultado_Correlação](imagens/1modelo.jpg)
+![Resultado_Correlação](imagens/knn.jpg)
+![Resultado_Correlação](imagens/resultado.jpg)
+
 Apresente aqui os resultados obtidos com a indução do modelo 1. 
 Apresente uma matriz de confusão quando pertinente. Apresente as medidas de performance
 apropriadas para o seu problema. 
