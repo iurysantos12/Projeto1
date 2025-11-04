@@ -334,9 +334,6 @@ Repita os passos anteriores para o segundo modelo.
 
 ### Resultados obtidos com o modelo 1.
 
-![Resultado_Correlação](imagens/modelo.jpg)
-![Resultado_Correlação](imagens/knn.jpg)
-![Resultado_Correlação](imagens/resultado.jpg)
 
 ### Interpretação do modelo 1
 
