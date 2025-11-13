@@ -315,7 +315,7 @@ Repita os passos anteriores para o segundo modelo.
 
 ### Resultados obtidos com o modelo 1.
 
-Após o balanceamento e ajuste dos hiperparâmetros, o modelo KNN apresentou desempenho elevado. A acurácia atingiu 95%, com valores de precision e recall acima de 0,9 para ambas as classes. Isso significa que o modelo conseguiu classificar corretamente a maioria dos casos, tanto de indivíduos com quanto sem AVC.
+Após o balanceamento e ajuste dos hiperparâmetros, o modelo KNN apresentou desempenho elevado. A acurácia atingiu 95%, com valores de precision e recall acima de 0,9 para ambas as classes. Isso significa que o modelo conseguiu classificar corretamente a maioria dos casos, tanto de indivíduos com quanto sem AVC. O resultado demonstra que, após o balanceamento, o KNN se mostrou eficiente para capturar os padrões locais e complexos do conjunto de dados.
 
 
 ### Interpretação do modelo 1
