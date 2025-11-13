@@ -306,8 +306,6 @@ Para a preparação dos dados, realizou-se a normalização das variáveis numé
 
 ![Diagrama PNS Cut](imagens/Modelo_sem_smote.jpeg)
 
-
-
 ## Resultados
 
 ### Resultados obtidos com o modelo 1.
@@ -322,6 +320,9 @@ processo de 'raciocínio' (*reasoning*) do sistema inteligente. Utilize medidas 
 o *feature importances* para tentar entender quais atributos o modelo se baseia no
 processo de tomada de decisão.
 
+### Modelo 2: Algoritmo
+
+Repita os passos anteriores para o segundo modelo.
 
 ### Resultados obtidos com o modelo 2.
 
