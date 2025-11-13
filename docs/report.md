@@ -315,7 +315,7 @@ Repita os passos anteriores para o segundo modelo.
 
 ### Resultados obtidos com o modelo 1.
 
-Após o balanceamento e ajuste dos hiperparâmetros, o modelo KNN apresentou desempenho elevado.
+Após o balanceamento e ajuste dos hiperparâmetros, o modelo KNN apresentou desempenho elevado. A acurácia atingiu 95%, com valores de precision e recall acima de 0,9 
 
 
 ### Interpretação do modelo 1
