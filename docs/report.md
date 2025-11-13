@@ -318,6 +318,7 @@ A preparação dos dados consiste dos seguintes passos:
 
 ### K-Nearest Neighbors (KNN) / Regressão Logística
 
+O primeiro modelo aplicado foi o K-Nearest Neighbors (KNN)
 
 
 ### Modelo 2: Algoritmo
