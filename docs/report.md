@@ -316,10 +316,7 @@ Após o balanceamento e ajuste dos hiperparâmetros, o modelo KNN apresentou des
 
 ### Interpretação do modelo 1
 
-Apresente os parâmetros do modelo obtido. Tentre mostrar as regras que são utilizadas no
-processo de 'raciocínio' (*reasoning*) do sistema inteligente. Utilize medidas como 
-o *feature importances* para tentar entender quais atributos o modelo se baseia no
-processo de tomada de decisão.
+
 
 ### Modelo 2: Algoritmo
 
