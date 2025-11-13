@@ -318,12 +318,7 @@ A preparação dos dados consiste dos seguintes passos:
 
 ### K-Nearest Neighbors (KNN) / Regressão Logística
 
-Substitua o título pelo nome do algoritmo que será utilizado. P. ex. árvore de decisão, rede neural, SVM, etc.
-Justifique a escolha do modelo.
-Apresente o processo utilizado para amostragem de dados (particionamento, cross-validation).
-Descreva os parâmetros utilizados. 
-Apresente trechos do código utilizado comentados. Se utilizou alguma ferramenta gráfica, apresente imagens
-com o fluxo de processamento.
+
 
 ### Modelo 2: Algoritmo
 
