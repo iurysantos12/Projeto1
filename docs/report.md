@@ -299,7 +299,7 @@ A tabela a seguir detalha todos os atributos selecionados para o estudo, descrev
 
 ## Indução de modelos
 
-### K-Nearest Neighbors (KNN) / Regressão Logística
+### K-Nearest Neighbors (KNN) / 
 
 O primeiro modelo aplicado foi o K-Nearest Neighbors (KNN), um algoritmo supervisionado baseado na similaridade entre as observações. Sua premissa é que instâncias próximas no espaço de características tendem a pertencer à mesma classe.
 Para a preparação dos dados, realizou-se a normalização das variáveis numéricas, essencial para esse tipo de algoritmo, e aplicou-se o método SMOTE (Synthetic Minority Oversampling Technique) para balancear as classes da variável target, já que havia forte desproporção entre indivíduos com e sem diagnóstico de AVC.
