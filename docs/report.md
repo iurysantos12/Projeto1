@@ -315,6 +315,8 @@ Repita os passos anteriores para o segundo modelo.
 
 ### Resultados obtidos com o modelo 1.
 
+Após o balanceamento e ajuste dos hiperparâmetros, o modelo KNN apresentou desempenho elevado.
+
 
 ### Interpretação do modelo 1
 
