@@ -331,7 +331,7 @@ Repita os passos anteriores para o segundo modelo.
 
 
 ## Resultados
-![Resultado_Correlação](imagens/Modelo.jpg)
+![Resultado_Correlação](imagens/Modelo.jpeg)
 ![Resultado_Correlação](imagens/KNN.jpg)
 ![Resultado_Correlação](imagens/Resultado.jpg)
 
