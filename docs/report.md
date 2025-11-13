@@ -306,9 +306,6 @@ Para a preparação dos dados, realizou-se a normalização das variáveis numé
 
 ![Diagrama PNS Cut](imagens/Modelo_sem_smote.jpeg)
 
-### Modelo 2: Algoritmo
-
-Repita os passos anteriores para o segundo modelo.
 
 
 ## Resultados
