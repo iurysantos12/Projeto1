@@ -312,6 +312,7 @@ Para a preparação dos dados, realizou-se a normalização das variáveis numé
 
 Após o balanceamento e ajuste dos hiperparâmetros, o modelo KNN apresentou desempenho elevado. A acurácia atingiu 95%, com valores de precision e recall acima de 0,9 para ambas as classes. Isso significa que o modelo conseguiu classificar corretamente a maioria dos casos, tanto de indivíduos com quanto sem AVC. O resultado demonstra que, após o balanceamento, o KNN se mostrou eficiente para capturar os padrões locais e complexos do conjunto de dados.
 
+![Diagrama PNS Cut](imagens/Resultado_sem_smote.jpeg)
 
 ### Interpretação do modelo 1
 
