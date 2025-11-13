@@ -316,7 +316,7 @@ Após o balanceamento e ajuste dos hiperparâmetros, o modelo KNN apresentou des
 
 ### Interpretação do modelo 1
 
-O modelo KNN, de natureza não paramétrica, apresentou desempenho superior após o balanceamento das classes.
+O modelo KNN, de natureza não paramétrica, apresentou desempenho superior após o balanceamento das classes. Considerando um número otimizado de vizinhos, o algoritmo atingiu acurácia de 95%, com precision e recall acima de 0.9 em ambas as classes.
 
 ### Modelo 2: Algoritmo
 
