@@ -297,23 +297,6 @@ A tabela a seguir detalha todos os atributos selecionados para o estudo, descrev
 
 
 
-###    Descrição de dados
-
-Utilize a análise descritiva baseada em estatística de primeira ordem para descrever os dados.
-Como descrever dados numéricos: média, desvio padrão, mínimo, máximo, quartis, histograma, etc.
-Como descrever dados qualitativos (categóricos): moda (valor mais frequente), quantidade de valores distintos (categorias), distribuição das categorias (histograma), etc.
-
-
-## Preparação dos dados
-
-A preparação dos dados consiste dos seguintes passos:
-
-> - Seleção dos atributos
-> - Tratamentos dos valores faltantes ou omissos: remoção, substituição, indução, etc.
-> - Tratamento dos valores inconsistentes: conversão, remoção de dados duplicados, remoção ou tratamento de ouliers.
-> - Conversão de dados: p. ex. numérico para categórico, categórico para binário, etc.
-
-
 ## Indução de modelos
 
 ### K-Nearest Neighbors (KNN) / Regressão Logística
