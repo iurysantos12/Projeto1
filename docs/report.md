@@ -318,7 +318,8 @@ A preparação dos dados consiste dos seguintes passos:
 
 ### K-Nearest Neighbors (KNN) / Regressão Logística
 
-O primeiro modelo aplicado foi o K-Nearest Neighbors (KNN), um algoritmo supervisionado baseado na similaridade entre as observações.
+O primeiro modelo aplicado foi o K-Nearest Neighbors (KNN), um algoritmo supervisionado baseado na similaridade entre as observações. Sua premissa é que instâncias próximas no espaço de características tendem a pertencer à mesma classe.
+Para a preparação dos dados,
 
 
 ### Modelo 2: Algoritmo
