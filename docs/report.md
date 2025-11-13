@@ -316,7 +316,7 @@ Após o balanceamento e ajuste dos hiperparâmetros, o modelo KNN apresentou des
 
 ### Interpretação do modelo 1
 
-O modelo KNN, de natureza não paramétrica, apresentou desempenho superior após o balanceamento das classes. Considerando um número otimizado de vizinhos, o algoritmo atingiu acurácia de 95%, com precision e recall acima de 0.9 em ambas as classes. Isso indica que o modelo conseguiu diferenciar adequadamente os indivíduos com e sem histórico de AVC. O bom desempenho está relacionado à capacidade do KNN de capturar padrões locais e relações não lineares nos dados,
+O modelo KNN, de natureza não paramétrica, apresentou desempenho superior após o balanceamento das classes. Considerando um número otimizado de vizinhos, o algoritmo atingiu acurácia de 95%, com precision e recall acima de 0.9 em ambas as classes. Isso indica que o modelo conseguiu diferenciar adequadamente os indivíduos com e sem histórico de AVC. O bom desempenho está relacionado à capacidade do KNN de capturar padrões locais e relações não lineares nos dados, o que parece mais adequado para este tipo de problema de saúde, onde múltiplos fatores interagem de forma complexa.
 
 ### Modelo 2: Algoritmo
 
