@@ -321,7 +321,7 @@ O modelo KNN, de natureza não paramétrica, apresentou desempenho superior apó
 ### Modelo 1: Regressão Logística
 
 Algoritmo:
-Neste modelo, utilizamos a Regressão Logística, um método estatístico de classificação que estima a probabilidade de uma instância pertencer a uma determinada classe.
+Neste modelo, utilizamos a Regressão Logística, um método estatístico de classificação que estima a probabilidade de uma instância pertencer a uma determinada classe.Ela funciona ajustando uma função sigmoide que transforma os valores previstos em probabilidades entre 0 e 1, permitindo identificar se um indivíduo é obeso ou não com base nas variáveis selecionadas.
 
 ### Modelo 2: Algoritmo
 
