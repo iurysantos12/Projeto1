@@ -323,6 +323,10 @@ O modelo KNN, de natureza não paramétrica, apresentou desempenho superior apó
 Algoritmo:
 Neste modelo, utilizamos a Regressão Logística, um método estatístico de classificação que estima a probabilidade de uma instância pertencer a uma determinada classe.Ela funciona ajustando uma função sigmoide que transforma os valores previstos em probabilidades entre 0 e 1, permitindo identificar se um indivíduo é obeso ou não com base nas variáveis selecionadas.
 
+Resultados:
+Os resultados mostraram um bom desempenho geral na capacidade de prever os casos de obesidade, com métricas de precisão e recall equilibradas.
+
+
 ### Modelo 2: Algoritmo
 
 Repita os passos anteriores para o segundo modelo.
