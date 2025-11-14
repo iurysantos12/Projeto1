@@ -327,7 +327,7 @@ Resultados:
 Os resultados mostraram um bom desempenho geral na capacidade de prever os casos de obesidade, com métricas de precisão e recall equilibradas.Isso indica que o modelo conseguiu identificar de forma adequada tanto os indivíduos obesos quanto os não obesos, ainda que possa ocorrer leve variação dependendo do balanceamento aplicado aos dados.
 
 Interpretação do Modelo 1:
-A Regressão Logística fornece uma forma de interpretar a influência de cada variável no desfecho (obesidade).Cada coeficiente indica o quanto uma variável aumenta ou diminui a probabilidade de obesidade, mantendo as outras constantes.
+A Regressão Logística fornece uma forma de interpretar a influência de cada variável no desfecho (obesidade).Cada coeficiente indica o quanto uma variável aumenta ou diminui a probabilidade de obesidade, mantendo as outras constantes.Isso permite compreender, por exemplo, quais fatores (idade, atividade física, consumo de feijão, etc.) têm maior impacto na chance de um indivíduo ser obeso.
 
 ### Modelo 2: Algoritmo
 
