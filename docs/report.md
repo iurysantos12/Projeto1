@@ -349,7 +349,7 @@ A Regressão Logística fornece uma forma de interpretar a influência de cada v
 
 ![Diagrama PNS Cut](imagens/Comparacao.jpeg)
 
-### Modelo 2: Algoritmo
+### Modelo 2: Rede Neural (MLP)
 
 Repita os passos anteriores para o segundo modelo.
 
