@@ -351,7 +351,7 @@ A Regressão Logística fornece uma forma de interpretar a influência de cada v
 
 ### Modelo 2: Rede Neural (MLP)
 
-Repita os passos anteriores para o segundo modelo.
+O segundo modelo aplicado foi a Rede Neural Multi-Layer Perceptron (MLP), um algoritmo supervisionado capaz de aprender padrões complexos e não lineares nos dados por meio de múltiplas camadas de neurônios conectados. A MLP ajusta automaticamente os pesos das conexões durante o treinamento, buscando minimizar a diferença entre as previsões e os valores reais da variável target.
 
 ### Resultados obtidos com o modelo 2.
 
