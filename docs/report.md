@@ -396,9 +396,8 @@ O modelo demonstra que, com balanceamento adequado, a rede neural começa a capt
 - Ajustar hiperparâmetros da rede (número de neurônios, camadas, taxa de aprendizado)
 
 - Explorar outras estratégias de balanceamento ou pesos de classe (class_weight='balanced') para aumentar o recall da classe minoritária.
-
-
-
+  
+- Aplicar técnicas de regularização ou validação cruzada estratificada;
 
 ## Análise comparativa dos modelos
 
