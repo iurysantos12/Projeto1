@@ -389,6 +389,7 @@ Esses resultados indicam que, mesmo com recall ainda baixo para AVCs, o modelo p
 
 A aplicação de SMOTE permitiu que a MLP aprendesse padrões da classe minoritária, aumentando o recall de indivíduos com AVC de 0% para 22%, mostrando uma melhora significativa na detecção de casos raros. A acurácia global caiu ligeiramente, mas o modelo agora consegue equilibrar melhor a identificação das classes, o que é crucial em cenários clínicos, onde a detecção correta de AVCs é prioritária.
 
+O modelo demonstra que, com balanceamento adequado, a rede neural começa a capturar padrões raros, essenciais para a detecção de AVCs.
 
 
 ## Análise comparativa dos modelos
