@@ -365,7 +365,7 @@ Esses resultados indicam que, apesar da acurácia elevada, a rede neural não co
 
 ### Interpretação do modelo 2
 
-A MLP, sendo um modelo de aprendizado profundo, é capaz de capturar padrões complexos e não lineares, mas o desbalanceamento extremo impactou fortemente a detecção da classe minoritária.
+A MLP, sendo um modelo de aprendizado profundo, é capaz de capturar padrões complexos e não lineares, mas o desbalanceamento extremo impactou fortemente a detecção da classe minoritária. O modelo aprendeu a classificar corretamente a maioria dos indivíduos sem AVC, mas praticamente ignorou os casos positivos, resultando em recall nulo para essa classe.
 
 ## Análise comparativa dos modelos
 
