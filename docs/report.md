@@ -387,9 +387,7 @@ Esses resultados indicam que, mesmo com recall ainda baixo para AVCs, o modelo p
 
 ### Interpretação do modelo 2
 
-A MLP, sendo um modelo de aprendizado profundo, é capaz de capturar padrões complexos e não lineares, mas o desbalanceamento extremo impactou fortemente a detecção da classe minoritária. O modelo aprendeu a classificar corretamente a maioria dos indivíduos sem AVC, mas praticamente ignorou os casos positivos, resultando em recall nulo para essa classe.
 
-O modelo demonstra que, mesmo com alto potencial de aprendizado, a MLP precisa de estratégias específicas para lidar com dados desbalanceados, especialmente em cenários clínicos onde a detecção correta de casos raros é crítica.
 
 
 ## Análise comparativa dos modelos
