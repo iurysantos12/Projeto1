@@ -357,6 +357,8 @@ Para a preparação dos dados, as variáveis categóricas foram transformadas em
  
 ### Resultados
 
+Após o treinamento da MLP, o modelo apresentou uma acurácia global de 97,8%, indicando que a grande maioria das previsões foi correta.
+
 
 
 ### Interpretação do modelo 2
