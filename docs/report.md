@@ -226,6 +226,14 @@ Continuando a exploração, vimos que a prática de atividade física também de
 
 ![Resultado_Correlação](imagens/Plot_atvfisica_avc.jpg)
 
+Seguindo tendências que parecem contraintuitivas, observamos que indivíduos que fumam menos ou pararam de fumar apresentam maior incidência de AVC nos dados. Isso acontece porque pessoas mais velhas, aposentadas, têm naturalmente maior risco de AVC e muitos deixam de fumar por questões de saúde. Portanto, a associação entre “não fumar” e maior AVC é impulsionada principalmente pela idade, e não pelo tabagismo em si.
+
+![Resultado_Correlação](imagens/Plot_atvfisica_avc.jpg)
+
+Seguindo padrões semelhantes, a depressão aparece fortemente associada ao AVC. Parte dessa relação é real, mas outra parte é explicada pela idade: pessoas mais idosas tendem a apresentar tanto mais AVC quanto mais diagnósticos de depressão. Assim, a idade atua como um fator de confusão, criando uma associação aparente mais forte do que a causa direta entre depressão e AVC.
+
+![Resultado_Correlação](imagens/Plot_atvfisica_avc.jpg)
+
 ### Teorema de Simpson
 
 A análise demonstrou uma correlação direta e robusta entre o avanço da idade e o aumento no diagnóstico de AVC, estabelecendo uma base clara para a compreensão do principal fator de risco. No entanto, a clareza dessa relação serve como um alerta para armadilhas estatísticas complexas, como o **Paradoxo de Simpson**. 
