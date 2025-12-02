@@ -371,11 +371,11 @@ O modelo demonstra que, mesmo com alto potencial de aprendizado, a MLP precisa d
 
 ### Modelo 2: Rede Neural (MLP) C/ Smote 
 
-O segundo modelo aplicado foi a Rede Neural Multi-Layer Perceptron (MLP), um algoritmo supervisionado capaz de aprender padrões complexos e não lineares nos dados por meio de múltiplas camadas de neurônios conectados. A MLP ajusta automaticamente os pesos das conexões durante o treinamento, buscando minimizar a diferença entre as previsões e os valores reais da variável target.
+O segundo modelo aplicado foi a Rede Neural Multi-Layer Perceptron (MLP), agora após o balanceamento das classes com SMOTE (Synthetic Minority Oversampling Technique). O SMOTE cria novas amostras sintéticas da classe minoritária, aumentando sua representatividade no conjunto de treino, o que permite que a rede neural aprenda padrões mais robustos para casos raros, como indivíduos com AVC.
 
-Para a preparação dos dados, as variáveis categóricas foram transformadas em variáveis dummy (0/1) e as variáveis numéricas foram padronizadas, processo essencial para a correta convergência da rede neural. Nesta análise inicial não foi aplicado SMOTE, portanto o desbalanceamento da variável target se manteve, com poucos casos positivos de AVC em relação aos negativos.
+As variáveis categóricas foram transformadas em variáveis dummy, e as variáveis numéricas foram padronizadas, garantindo que o algoritmo tivesse convergência estável e adequada.
 
-![Diagrama PNS Cut](imagens/redes_sem_smote.jpeg)
+![Diagrama PNS Cut](imagens/redes_com_smote.jpeg)
  
 ### Resultados
 
