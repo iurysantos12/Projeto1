@@ -361,7 +361,7 @@ Após o treinamento da MLP, o modelo apresentou uma acurácia global de 97,8%, i
 
 ![Diagrama PNS Cut](imagens/resultados_redes.jpeg)
 
-Esses resultados indicam que, apesar da acurácia elevada, a rede neural não conseguiu identificar adequadamente os indivíduos com histórico de AVC
+Esses resultados indicam que, apesar da acurácia elevada, a rede neural não conseguiu identificar adequadamente os indivíduos com histórico de AVC provavelmente devido ao desbalanceamento natural do conjunto de dados.
 
 ### Interpretação do modelo 2
 
