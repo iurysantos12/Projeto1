@@ -379,7 +379,7 @@ As variáveis categóricas foram transformadas em variáveis dummy, e as variáv
  
 ### Resultados
 
-Após o treinamento da MLP, o modelo apresentou uma acurácia global de 97,8%, indicando que a grande maioria das previsões foi correta. No entanto, ao analisar métricas por classe, observou-se que o recall da classe minoritária (indivíduos com AVC) foi muito baixo, enquanto a classe majoritária (indivíduos sem AVC) foi quase perfeitamente identificada. 
+Após o balanceamento das classes e treinamento da MLP, o modelo apresentou acurácia global de 92,4%, ligeiramente inferior à MLP sem SMOTE, mas com melhora no recall da classe minoritária (indivíduos com AVC).
 
 ![Diagrama PNS Cut](imagens/resultado_redes_com_smote.jpeg)
 
