@@ -355,7 +355,8 @@ Para a preparação dos dados, as variáveis categóricas foram transformadas em
 
 ![Diagrama PNS Cut](imagens/redes_sem_smote.jpeg)
  
-### Resultados obtidos com o modelo 2.
+### Resultados
+
 
 
 ### Interpretação do modelo 2
