@@ -353,7 +353,8 @@ A Regressão Logística fornece uma forma de interpretar a influência de cada v
 
 O segundo modelo aplicado foi a Rede Neural Multi-Layer Perceptron (MLP), um algoritmo supervisionado capaz de aprender padrões complexos e não lineares nos dados por meio de múltiplas camadas de neurônios conectados. A MLP ajusta automaticamente os pesos das conexões durante o treinamento, buscando minimizar a diferença entre as previsões e os valores reais da variável target.
 
-Para a preparação dos dados, as variáveis categóricas foram transformadas em variáveis dummy (0/1) e as variáveis numéricas foram padronizadas, processo essencial para a correta convergência da rede neural. 
+Para a preparação dos dados, as variáveis categóricas foram transformadas em variáveis dummy (0/1) e as variáveis numéricas foram padronizadas, processo essencial para a correta convergência da rede neural. Ao contrário do KNN, nesta análise inicial não foi aplicado SMOTE, portanto o desbalanceamento da variável target se manteve, com poucos casos positivos de AVC em relação aos negativos.
+ 
 ### Resultados obtidos com o modelo 2.
 
 Repita o passo anterior com os resultados do modelo 2.
