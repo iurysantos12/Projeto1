@@ -391,6 +391,10 @@ A aplicação de SMOTE permitiu que a MLP aprendesse padrões da classe minorit�
 
 O modelo demonstra que, com balanceamento adequado, a rede neural começa a capturar padrões raros, essenciais para a detecção de AVCs.
 
+## Próximas melhorias para o modelo 2 
+
+- Ajustar hiperparâmetros da rede (número de neurônios, camadas, taxa de aprendizado);
+
 
 ## Análise comparativa dos modelos
 
