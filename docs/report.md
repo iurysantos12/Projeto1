@@ -383,7 +383,7 @@ Após o balanceamento das classes e treinamento da MLP, o modelo apresentou acur
 
 ![Diagrama PNS Cut](imagens/resultado_redes_com_smote.jpeg)
 
-Esses resultados indicam que, apesar da acurácia elevada, a rede neural não conseguiu identificar adequadamente os indivíduos com histórico de AVC provavelmente devido ao desbalanceamento natural do conjunto de dados.
+Esses resultados indicam que, mesmo com recall ainda baixo para AVCs, o modelo passou a identificar mais casos da classe minoritária, algo que não ocorria na MLP sem SMOTE, onde o recall para AVC era praticamente zero.
 
 ### Interpretação do modelo 2
 
