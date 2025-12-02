@@ -369,6 +369,29 @@ A MLP, sendo um modelo de aprendizado profundo, é capaz de capturar padrões co
 
 O modelo demonstra que, mesmo com alto potencial de aprendizado, a MLP precisa de estratégias específicas para lidar com dados desbalanceados, especialmente em cenários clínicos onde a detecção correta de casos raros é crítica.
 
+### Modelo 2: Rede Neural (MLP) C/ Smote 
+
+O segundo modelo aplicado foi a Rede Neural Multi-Layer Perceptron (MLP), um algoritmo supervisionado capaz de aprender padrões complexos e não lineares nos dados por meio de múltiplas camadas de neurônios conectados. A MLP ajusta automaticamente os pesos das conexões durante o treinamento, buscando minimizar a diferença entre as previsões e os valores reais da variável target.
+
+Para a preparação dos dados, as variáveis categóricas foram transformadas em variáveis dummy (0/1) e as variáveis numéricas foram padronizadas, processo essencial para a correta convergência da rede neural. Nesta análise inicial não foi aplicado SMOTE, portanto o desbalanceamento da variável target se manteve, com poucos casos positivos de AVC em relação aos negativos.
+
+![Diagrama PNS Cut](imagens/redes_sem_smote.jpeg)
+ 
+### Resultados
+
+Após o treinamento da MLP, o modelo apresentou uma acurácia global de 97,8%, indicando que a grande maioria das previsões foi correta. No entanto, ao analisar métricas por classe, observou-se que o recall da classe minoritária (indivíduos com AVC) foi muito baixo, enquanto a classe majoritária (indivíduos sem AVC) foi quase perfeitamente identificada. 
+
+![Diagrama PNS Cut](imagens/resultados_redes.jpeg)
+
+Esses resultados indicam que, apesar da acurácia elevada, a rede neural não conseguiu identificar adequadamente os indivíduos com histórico de AVC provavelmente devido ao desbalanceamento natural do conjunto de dados.
+
+### Interpretação do modelo 2
+
+A MLP, sendo um modelo de aprendizado profundo, é capaz de capturar padrões complexos e não lineares, mas o desbalanceamento extremo impactou fortemente a detecção da classe minoritária. O modelo aprendeu a classificar corretamente a maioria dos indivíduos sem AVC, mas praticamente ignorou os casos positivos, resultando em recall nulo para essa classe.
+
+O modelo demonstra que, mesmo com alto potencial de aprendizado, a MLP precisa de estratégias específicas para lidar com dados desbalanceados, especialmente em cenários clínicos onde a detecção correta de casos raros é crítica.
+
+
 ## Análise comparativa dos modelos
 
 Discuta sobre as forças e fragilidades de cada modelo. Exemplifique casos em que um
