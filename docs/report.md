@@ -365,7 +365,6 @@ Esses resultados indicam que, apesar da acurácia elevada, a rede neural não co
 
 ### Interpretação do modelo 2
 
-Repita o passo anterior com os parâmetros do modelo 2.
 
 
 ## Análise comparativa dos modelos
