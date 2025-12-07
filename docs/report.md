@@ -275,6 +275,10 @@ Ao refatorar a análise para faixas etárias específicas, o problema contido no
 
 A correlação entre variáveis pode apresentar sinal negativo mesmo quando se espera uma relação positiva devido a fatores como distribuição da amostra, dados ausentes ou inconsistentes, ou influência de outras variáveis que afetam a relação linear direta.
 
+## Matriz de confusão 
+
+![Diagrama PNS Cut](imagens/matriz_confusao.jpeg)
+
 ###    Dicionário de dados 
 
 A tabela a seguir detalha todos os atributos selecionados para o estudo, descrevendo seu significado e tipo de dado.
