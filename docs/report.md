@@ -445,14 +445,28 @@ Para viabilizar sua aplicação em um sistema inteligente (como uma API ou aplic
 
 ## 8. Conclusão
 
-Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos no trabalho, 
-onde se verifica as observações pessoais de cada aluno.
+O presente trabalho buscou analisar os dados da Pesquisa Nacional de Saúde (PNS 2019) para desenvolver um sistema inteligente capaz de identificar fatores associados ao Acidente Vascular Cerebral (AVC).
 
-Uma conclusão deve ter 3 partes:
+### Resumo do Desenvolvimento
+A trajetória do projeto envolveu desde a leitura dos microdados brutos e tratamento de valores ausentes até a identificação e correção de paradoxos estatísticos (Paradoxo de Simpson), onde a idade atuava como variável de confusão mascarando riscos reais do tabagismo e sedentarismo. Foram implementados e comparados três algoritmos de aprendizado de máquina: KNN, Regressão Logística e Redes Neurais (MLP), utilizando técnicas de balanceamento de dados (SMOTE).
 
-   * Breve resumo do que foi desenvolvido
-	 * Apresenação geral dos resultados obtidos com discussão das vantagens e desvantagens do sistema inteligente
-	 * Limitações e possibilidades de melhoria
+### Resultados Obtidos
+Os resultados demonstraram que o AVC possui forte correlação com a idade, hipertensão e doenças cardíacas.
+
+  - Vantagens do Sistema: O modelo KNN com SMOTE apresentou excelente capacidade preditiva (acurácia ~95%), mostrando-se uma ferramenta viável para triagem inicial de pacientes. Já a análise estatística forneceu insights valiosos, desmistificando correlações espúrias encontradas na análise exploratória inicial.
+
+  - Desvantagens: A complexidade computacional do KNN pode ser um entrave para processamento em tempo real em dispositivos móveis, e a Rede Neural (MLP) mostrou-se ineficaz para a classe minoritária sem ajustes profundos, indicando que "mais complexidade" nem sempre gera melhores resultados em dados desbalanceados.
+
+### Limitações e Melhorias
+Uma limitação central foi o desbalanceamento extremo das classes e a natureza autorreportada dos dados da PNS, que pode conter viés de memória. Além disso, a remoção de variáveis com muitos dados ausentes (como algumas medidas antropométricas) pode ter suprimido informações relevantes.
+
+Como possibilidades de melhoria futura, sugere-se:
+
+ 1. Realizar uma validação cruzada estratificada (Stratified K-Fold) para garantir a estabilidade das métricas do KNN.
+
+ 2. Aprofundar a otimização de hiperparâmetros da MLP (Grid Search) para tentar elevar o recall.
+
+ 3. Desenvolver uma interface gráfica (Web ou Mobile) para que agentes de saúde possam inserir os dados do paciente e receber a estimativa de risco em tempo real.
 
 
 # REFERÊNCIAS
