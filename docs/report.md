@@ -405,9 +405,9 @@ O modelo demonstra que, com balanceamento adequado, a rede neural começa a capt
 
 ## Análise comparativa dos modelos
 
-Discuta sobre as forças e fragilidades de cada modelo. Exemplifique casos em que um
-modelo se sairia melhor que o outro. Nesta seção é possível utilizar a sua imaginação
-e extrapolar um pouco o que os dados sugerem.
+A avaliação dos modelos desenvolvidos — K-Nearest Neighbors (KNN), Regressão Logística e Multi-Layer Perceptron (MLP) — revelou comportamentos distintos diante do desafio de classificar uma doença com baixa prevalência como o AVC.
+
+
 
 
 ### Distribuição do modelo (opcional)
