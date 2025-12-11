@@ -471,28 +471,16 @@ Como possibilidades de melhoria futura, sugere-se:
 
 # REFERÊNCIAS
 
-Como um projeto de sistema inteligente não requer revisão bibliográfica, 
-a inclusão das referências não é obrigatória. No entanto, caso você 
-tenha utilizado referências na introdução ou deseje 
-incluir referências relacionadas às tecnologias, padrões, ou metodologias 
-que serão usadas no seu trabalho, relacione-as de acordo com a ABNT.
 
-Verifique no link abaixo como devem ser as referências no padrão ABNT:
+**[1]** - _INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). **Pesquisa Nacional de Saúde 2019**. Rio de Janeiro: IBGE, 2020. Disponível em: https://www.ibge.gov.br/. Acesso em: 10 dez. 2025._
 
-http://www.pucminas.br/imagedb/documento/DOC\_DSC\_NOME\_ARQUI20160217102425.pdf
+**[2]** - _MINISTÉRIO DA SAÚDE. **Acidente Vascular Cerebral (AVC)**. Brasília, DF: Ministério da Saúde, 2021. Disponível em: https://www.gov.br/saude. Acesso em: 10 dez. 2025._
 
-Por exemplo:
+**[3]** - _RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial**. Rio de Janeiro: Elsevier, c2013. xxi, 988 p. ISBN 9788535237016._
 
-**[1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
+**[4]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
 
-**[2]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
-
-**[3]** - _CORMEN, Thomas H. et al. **Algoritmos: teoria e prática**. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996._
-
-**[4]** - _SUTHERLAND, Jeffrey Victor. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. 2. ed. rev. São Paulo, SP: Leya, 2016. 236, [4] p. ISBN 9788544104514._
-
-**[5]** - _RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial**. Rio de Janeiro: Elsevier, c2013. xxi, 988 p. ISBN 9788535237016._
-
+**[5]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
 
 
 # APÊNDICES
