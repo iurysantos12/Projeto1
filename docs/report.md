@@ -407,7 +407,25 @@ O modelo demonstra que, com balanceamento adequado, a rede neural começa a capt
 
 A avaliação dos modelos desenvolvidos — K-Nearest Neighbors (KNN), Regressão Logística e Multi-Layer Perceptron (MLP) — revelou comportamentos distintos diante do desafio de classificar uma doença com baixa prevalência como o AVC.
 
+### Forças e Fragilidades
 
+* K-Nearest Neighbors (KNN):
+
+  - Forças: Foi o modelo que apresentou o melhor desempenho geral após a aplicação do SMOTE, alcançando métricas de precisão e recall acima de 90%. Sua força reside na capacidade de identificar padrões locais (vizinhança), assumindo que pacientes com características de saúde similares (idade, peso, hábitos) possuem riscos similares.
+
+  - Fragilidades: É um algoritmo custoso computacionalmente em tempo de execução (lazy learner), pois precisa calcular a distância para todos os pontos de treino a cada nova predição. Além disso, não gera um modelo explicativo direto (não há coeficientes para analisar).
+
+* Regressão Logística:
+
+  - Forças: Destacou-se pela interpretabilidade. Ao fornecer coeficientes para cada variável, permite que profissionais de saúde entendam o quanto a idade ou a hipertensão aumentam a chance de um AVC (Odds Ratio). É um modelo leve, rápido e menos propenso a overfitting em dados mais simples.
+
+  - Fragilidades: Pode ter dificuldade em capturar relações não-lineares complexas entre as variáveis se não houver um trabalho extenso de engenharia de atributos (feature engineering).
+
+* Rede Neural (MLP):
+
+  - Forças: Tem potencial teórico para capturar as relações mais complexas e não-lineares.
+
+  - Fragilidades: Neste estudo, demonstrou ser altamente sensível ao desbalanceamento. Sem SMOTE, o recall para AVC foi nulo (0%). Mesmo com SMOTE, o recall subiu apenas para 22%, significativamente inferior ao KNN. Isso sugere que a MLP requer um ajuste de hiperparâmetros muito mais fino e talvez um volume de dados ainda maior para convergir adequadamente neste problema específico.
 
 
 ### Distribuição do modelo (opcional)
