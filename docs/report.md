@@ -440,7 +440,7 @@ Considerando que o modelo KNN (K-Nearest Neighbors) treinado com balanceamento S
 
 Para viabilizar sua aplicação em um sistema inteligente (como uma API ou aplicativo web), é fundamental exportar não apenas o modelo preditivo, mas também o objeto de normalização (Scaler), visto que o KNN é sensível à escala dos dados. O código abaixo demonstra a criação do pacote de distribuição:
 
-![Diagrama PNS Cut](imagens/CodigoFeito.jpeg)
+![Diagrama PNS Cut](imagens/CodigoFeito1.jpeg)
 
 
 ## 8. Conclusão
