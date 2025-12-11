@@ -436,8 +436,11 @@ Por outro lado, em um cenário de consultoria médica ou formulação de políti
 
 ### Distribuição do modelo (opcional)
 
-Tende criar um pacote de distribuição para o modelo construído, para ser aplicado 
-em um sistema inteligente.
+Considerando que o modelo KNN (K-Nearest Neighbors) treinado com balanceamento SMOTE apresentou os melhores resultados de sensibilidade e precisão para a detecção de AVC neste estudo, ele foi o escolhido para ser distribuído.
+
+Para viabilizar sua aplicação em um sistema inteligente (como uma API ou aplicativo web), é fundamental exportar não apenas o modelo preditivo, mas também o objeto de normalização (Scaler), visto que o KNN é sensível à escala dos dados. O código abaixo demonstra a criação do pacote de distribuição:
+
+![Diagrama PNS Cut](imagens/CodigoFeito.jpeg)
 
 
 ## 8. Conclusão
