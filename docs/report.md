@@ -427,6 +427,12 @@ A avaliação dos modelos desenvolvidos — K-Nearest Neighbors (KNN), Regressã
 
   - Fragilidades: Neste estudo, demonstrou ser altamente sensível ao desbalanceamento. Sem SMOTE, o recall para AVC foi nulo (0%). Mesmo com SMOTE, o recall subiu apenas para 22%, significativamente inferior ao KNN. Isso sugere que a MLP requer um ajuste de hiperparâmetros muito mais fino e talvez um volume de dados ainda maior para convergir adequadamente neste problema específico.
 
+### Cenários de Aplicação
+
+Em um cenário de triagem clínica automatizada, onde o objetivo é não deixar passar nenhum paciente em risco (alta sensibilidade), o KNN (com SMOTE) seria a escolha ideal baseada nos resultados obtidos, dada sua alta taxa de recuperação de casos positivos.
+
+Por outro lado, em um cenário de consultoria médica ou formulação de políticas públicas, a Regressão Logística seria preferível. Ela permitiria ao gestor afirmar, por exemplo, que "a cada ano de vida, o risco aumenta em X%", oferecendo transparência na tomada de decisão, algo que o KNN e a MLP (caixas-preta) não oferecem facilmente.
+
 
 ### Distribuição do modelo (opcional)
 
