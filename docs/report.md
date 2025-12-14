@@ -479,9 +479,9 @@ Como possibilidades de melhoria futura, sugere-se:
 
 **Colocar link:**
 
-Do código (armazenado no repositório);
+[Código](https://github.com/iurysantos12/Projeto1/blob/main/AVC_Final.ipynb));
 
-Dos artefatos (armazenado do repositório);
+[Artefatos](https://github.com/iurysantos12/Projeto1/blob/main/docs/report.md));
 
 Da apresentação final (armazenado no repositório);
 
