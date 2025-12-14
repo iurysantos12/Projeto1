@@ -476,16 +476,16 @@ Como possibilidades de melhoria futura, sugere-se:
 # APÊNDICES
 
 Código-fonte:
-[Código](https://github.com/iurysantos12/Projeto1/blob/main/AVC_Final.ipynb));
+[Código](https://github.com/iurysantos12/Projeto1/blob/main/AVC_Final.ipynb)
 
 Relatório do projeto:
-[Relatório](https://github.com/iurysantos12/Projeto1/blob/main/docs/report.md));
+[Relatório](https://github.com/iurysantos12/Projeto1/blob/main/docs/report.md)
 
 Artefatos (imagens e materiais auxiliares):
-[Artefatos](https://github.com/iurysantos12/Projeto1/tree/main/docs/imagens));
+[Artefatos](https://github.com/iurysantos12/Projeto1/tree/main/docs/imagens)
 
 Apresentação final:
-[Apresentação_Final](https://github.com/iurysantos12/Projeto1/blob/main/docs/Apresentação_Final.pdf));
+[Apresentação_Final](https://github.com/iurysantos12/Projeto1/blob/main/docs/Apresentação_Final.pdf)
 
 
 
