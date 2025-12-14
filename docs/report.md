@@ -472,18 +472,20 @@ Como possibilidades de melhoria futura, sugere-se:
 
 **[4]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
 
-**[5]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
-
 
 # APÊNDICES
 
-**Colocar link:**
-
+Código-fonte:
 [Código](https://github.com/iurysantos12/Projeto1/blob/main/AVC_Final.ipynb));
 
-[Artefatos](https://github.com/iurysantos12/Projeto1/blob/main/docs/report.md));
+Relatório do projeto:
+[Relatório](https://github.com/iurysantos12/Projeto1/blob/main/docs/report.md));
 
-Da apresentação final (armazenado no repositório);
+Artefatos (imagens e materiais auxiliares):
+[Artefatos](https://github.com/iurysantos12/Projeto1/tree/main/docs/imagens));
+
+Apresentação final:
+[Apresentação_Final](https://github.com/iurysantos12/Projeto1/blob/main/docs/Apresentação_Final.pdf));
 
 
 
