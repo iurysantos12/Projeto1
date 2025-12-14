@@ -395,14 +395,6 @@ A aplicação de SMOTE permitiu que a MLP aprendesse padrões da classe minorit�
 
 O modelo demonstra que, com balanceamento adequado, a rede neural começa a capturar padrões raros, essenciais para a detecção de AVCs.
 
-## Próximas melhorias para o modelo 2 
-
-- Ajustar hiperparâmetros da rede (número de neurônios, camadas, taxa de aprendizado)
-
-- Explorar outras estratégias de balanceamento ou pesos de classe (class_weight='balanced') para aumentar o recall da classe minoritária.
-  
-- Aplicar técnicas de regularização ou validação cruzada estratificada;
-
 ## Análise comparativa dos modelos
 
 A avaliação dos modelos desenvolvidos — K-Nearest Neighbors (KNN), Regressão Logística e Multi-Layer Perceptron (MLP) — revelou comportamentos distintos diante do desafio de classificar uma doença com baixa prevalência como o AVC.
